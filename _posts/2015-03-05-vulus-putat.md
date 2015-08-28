@@ -3,7 +3,7 @@ layout: post
 title:  "Vulus putat"
 date:   2015-03-04 08:15:03
 categories: blog
-featured: true
+
 tags:
   - snippet
 ---
