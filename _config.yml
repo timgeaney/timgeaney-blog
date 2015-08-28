@@ -3,8 +3,8 @@ title: tim geaney
 email: timfgeaney@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Freelance web designer and developer, specialising in Jekyll, HTML, CSS and Javascript
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tutsplus.com" # the base hostname & protocol for your site
+baseurl: "/timgeaney-blog" # the subpath of your site, e.g. /blog/
+url: "http://example.com" # the base hostname & protocol for your site
 
 twitter_username: timfgeaney
 github_username:  timfgeaney
